@@ -86,6 +86,7 @@ flask run
 ```text
 Q: "What are the main findings in this research paper?"
 A: Summarized results with page citations.
+Eg: This document lists the variour types of elements involved in making steel[page 1]. Describes how carbon is mixed with iron to finally get steel as finished product[page 2].
 
 Q: "Show me the financial performance metrics from the quarterly report."
 A: Extracted tables & key metrics with references.
